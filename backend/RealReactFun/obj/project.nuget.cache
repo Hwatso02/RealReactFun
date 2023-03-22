@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVSclWJiXFjIh+RqWz90Wt/PGfyC8F0kSF181FmvW39OiHRzIZ6pdzorxiWs5KeEUPfxrKOC4HIVEHxaiNAj5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\E7470\\OneDrive\\Documents\\Winter 2023 School\\IS 413\\RealReactFun\\backend\\RealReactFun\\RealReactFun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E7470\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\E7470\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\E7470\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\E7470\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\E7470\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\E7470\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
